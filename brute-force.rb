@@ -12,10 +12,8 @@ end
 
 
 puts "give an n and a c"
-puts "n reps the total number of possible moves"
 puts "n:"
 n = gets.strip
-puts "c reps the number of moves required to reach the desitnation"
 puts "c:"
 c = gets.strip
 
